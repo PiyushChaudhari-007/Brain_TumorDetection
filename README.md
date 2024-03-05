@@ -42,6 +42,6 @@ The trained CNN model demonstrates promising results in classifying brain tumor 
 
 ![image](https://github.com/PiyushChaudhari-007/Brain_TumorDetection/assets/147206358/863041e1-cc99-4229-a65a-4a1babbcf2c3)
 
-![Confusion Matrix](![image](https://github.com/PiyushChaudhari-007/Brain_TumorDetection/assets/147206358/d35666c5-50b1-4b1f-856c-d64fc995a8c9)
+(![image](https://github.com/PiyushChaudhari-007/Brain_TumorDetection/assets/147206358/d35666c5-50b1-4b1f-856c-d64fc995a8c9)
 
 This confusion matrix illustrates the classification performance of the model, showing the number of true positives, true negatives, false positives, and false negatives. The heatmap visualization provides a clear representation of the model's predictions compared to the ground truth labels.
