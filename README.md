@@ -1,6 +1,4 @@
 # Brain Tumor Image Classification
-![image](https://github.com/PiyushChaudhari-007/Brain_TumorDetection/assets/147206358/51db070b-efa9-45da-87ce-21f5a7bb4570)
-
 
 This project involves the classification of brain tumor images using Convolutional Neural Networks (CNNs). The dataset consists of images of brain tumors along with various image statistics such as mean, variance, standard deviation, entropy, skewness, kurtosis, contrast, energy, ASM (Angular Second Moment), homogeneity, dissimilarity, correlation, and coarseness. The objective is to build a CNN model that can accurately classify these images into tumor or non-tumor classes based on the image statistics.
 
@@ -11,6 +9,7 @@ Brain tumor classification is a crucial task in medical imaging analysis, aiding
 ## Dataset
 
 The dataset used for this project consists of brain tumor images along with image statistics. Each image is labeled with a class indicating whether it contains a tumor (class 1) or not (class 0). The dataset is provided in CSV format and includes image statistics such as mean, variance, standard deviation, entropy, etc.
+![image](https://github.com/PiyushChaudhari-007/Brain_TumorDetection/assets/147206358/51db070b-efa9-45da-87ce-21f5a7bb4570)
 
 ## Analysis
 
