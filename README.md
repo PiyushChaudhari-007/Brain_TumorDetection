@@ -30,13 +30,15 @@ The analysis involves the following steps:
 
 The code for this project is implemented in Python using libraries such as Pandas, NumPy, Matplotlib, TensorFlow, and Keras. The Jupyter notebook or Python script provides step-by-step instructions for loading data, preprocessing, model building, training, and evaluation.
 ## Visualizing The Process
-
-!(Single Convolution)[](https://github.com/PiyushChaudhari-007/Brain_TumorDetection/assets/147206358/eb19d82b-34e5-4cff-ba06-06d2951763a0)
+Single Convolution
+![](https://github.com/PiyushChaudhari-007/Brain_TumorDetection/assets/147206358/eb19d82b-34e5-4cff-ba06-06d2951763a0)
 
 
 ## Conclusion
 
 The trained CNN model demonstrates promising results in classifying brain tumor images based on image statistics. Further optimization and fine-tuning of the model could potentially improve its performance and make it more suitable for real-world applications in medical imaging analysis. 
+
+![image](https://github.com/PiyushChaudhari-007/Brain_TumorDetection/assets/147206358/863041e1-cc99-4229-a65a-4a1babbcf2c3)
 
 ![Confusion Matrix](![image](https://github.com/PiyushChaudhari-007/Brain_TumorDetection/assets/147206358/d35666c5-50b1-4b1f-856c-d64fc995a8c9)
 
