@@ -9,6 +9,8 @@ Brain tumor classification is a crucial task in medical imaging analysis, aiding
 ## Dataset
 
 The dataset used for this project consists of brain tumor images along with image statistics. Each image is labeled with a class indicating whether it contains a tumor (class 1) or not (class 0). The dataset is provided in CSV format and includes image statistics such as mean, variance, standard deviation, entropy, etc.
+
+
 ![image](https://github.com/PiyushChaudhari-007/Brain_TumorDetection/assets/147206358/51db070b-efa9-45da-87ce-21f5a7bb4570)
 
 ## Analysis
