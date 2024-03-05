@@ -31,7 +31,7 @@ The analysis involves the following steps:
 The code for this project is implemented in Python using libraries such as Pandas, NumPy, Matplotlib, TensorFlow, and Keras. The Jupyter notebook or Python script provides step-by-step instructions for loading data, preprocessing, model building, training, and evaluation.
 ## Visualizing The Process
 Single Convolution
-![](https://github.com/PiyushChaudhari-007/Brain_TumorDetection/assets/147206358/eb19d82b-34e5-4cff-ba06-06d2951763a0)
+![gif](https://github.com/PiyushChaudhari-007/Brain_TumorDetection/assets/147206358/eb19d82b-34e5-4cff-ba06-06d2951763a0)
 
 
 ## Conclusion
